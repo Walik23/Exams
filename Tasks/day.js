@@ -1,5 +1,6 @@
 // Get day number
 
+//Step 1
 //Change `let` into `const`
 //Move `let i` into `for`
 //Remove useless brackets
